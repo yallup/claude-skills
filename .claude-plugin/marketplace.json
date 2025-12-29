@@ -1,5 +1,8 @@
 {
   "name": "yallup",
+  "owner": {
+    "name": "yallup"
+  },
   "plugins": [
     {
       "name": "claude-skills",
