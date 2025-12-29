@@ -1,0 +1,9 @@
+{
+  "name": "yallup",
+  "plugins": [
+    {
+      "name": "claude-skills",
+      "source": "./plugins/claude-skills"
+    }
+  ]
+}
