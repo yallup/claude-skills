@@ -4,6 +4,13 @@ Skills and commands for scientific Python development.
 
 ## Installation
 
+Within Claude Code install directly with
+```
+/plugin marketplace add git@github.com:yallup/claude-skills.git
+```
+
+### From source
+
 ```bash
 git clone https://github.com/yallup/claude-skills.git
 ```
