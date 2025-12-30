@@ -8,6 +8,10 @@ Within Claude Code install directly with
 ```
 /plugin marketplace add git@github.com:yallup/claude-skills.git
 ```
+then add the plugins
+```
+/plugin install claude-skills@yallup
+```
 
 ### From source
 
