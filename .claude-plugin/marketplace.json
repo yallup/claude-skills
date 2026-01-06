@@ -5,7 +5,7 @@
   },
   "plugins": [
     {
-      "name": "code",
+      "name": "scientific-python",
       "source": "./plugins/claude-skills"
     },
     {
