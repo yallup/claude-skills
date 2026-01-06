@@ -1,12 +1,16 @@
 {
-  "name": "yallup",
+  "name": "astro-skills",
   "owner": {
     "name": "yallup"
   },
   "plugins": [
     {
-      "name": "claude-skills",
+      "name": "code",
       "source": "./plugins/claude-skills"
+    },
+    {
+      "name": "gpt-query",
+      "source": "./plugins/gpt-query"
     }
   ]
 }
